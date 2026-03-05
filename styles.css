@@ -2,6 +2,9 @@ body {background-color: #111111;
     font-family:verdana;
     color:#888888;
     /* limit width that line goes on screen */
-    max-width: 800px; }
+    max-width: 800px; 
+    padding: 20px;
+    /* make text less cramped */
+    line-height: 1.6;}
 /* h1 {color: #888888;}
 p {color:  #888888;padding:30px;} */
