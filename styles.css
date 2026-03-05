@@ -3,6 +3,8 @@ body {background-color: #111111;
     color:#888888;
     /* limit width that line goes on screen */
     max-width: 800px; 
+    /* centre content */
+    margin: 0 auto;   
     padding: 20px;
     /* make text less cramped */
     line-height: 1.6;
