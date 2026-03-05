@@ -15,9 +15,11 @@ p {color:  #888888;padding:30px;} */
 
 
  nav {
+    /* lays out side by side rather than manually using float */
     display: flex;
     gap: 8px;
     padding: 20px 0;
+    /* seperator for bottom */
     border-bottom: 1px solid #333333;
     margin-bottom: 40px;
 }
