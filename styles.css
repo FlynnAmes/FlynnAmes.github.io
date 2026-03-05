@@ -6,6 +6,7 @@ body {background-color: #111111;
     padding: 20px;
     /* make text less cramped */
     line-height: 1.6;
+    /* use to make more consistent when browser is in dark mode */
     color-scheme: dark;}
 /* h1 {color: #888888;}
 p {color:  #888888;padding:30px;} */
