@@ -12,3 +12,27 @@ body {background-color: #111111;
     color-scheme: dark;}
 /* h1 {color: #888888;}
 p {color:  #888888;padding:30px;} */
+
+nav {
+    nav {
+    display: flex;
+    gap: 8px;
+    padding: 20px 0;
+    border-bottom: 1px solid #333333;
+    margin-bottom: 40px;
+}
+
+nav a {
+    color: #888888;
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    transition: color 0.2s;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+}
