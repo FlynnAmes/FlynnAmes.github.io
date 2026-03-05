@@ -5,6 +5,7 @@ body {background-color: #111111;
     max-width: 800px; 
     padding: 20px;
     /* make text less cramped */
-    line-height: 1.6;}
+    line-height: 1.6;
+    color-scheme: dark;}
 /* h1 {color: #888888;}
 p {color:  #888888;padding:30px;} */
